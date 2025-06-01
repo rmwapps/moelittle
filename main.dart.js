@@ -80216,7 +80216,7 @@ var $async$$0=A.M(function(a,b){if(a===1){p.push(b)
 s=q}while(true)switch(s){case 0:k=J.eX(o.a.a,"inv_id")
 j=k==null?null:J.cc(k)
 i=j==null?"":j
-h="https://www.telkomsel.com/shops/channel/o2o/"+A.j(i)+"/success"
+h="https://known-instantly-bison.ngrok-free.app/inquiry/"+A.j(i)
 q=3
 n=A.fX(h,0,null)
 s=9
